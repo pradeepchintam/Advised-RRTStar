@@ -18,3 +18,12 @@ Now select the Planner from the dropdown in Planner tab.
 
 
 Solve the problem and observe the results in the log window.
+
+
+
+
+
+##################################### Simulation Results #################################
+
+
+Please watch the .webm files. BIT*, RRT*, Informed RRT* and Advised-RRT* simulation results are recorded. The results are very similar to Table IV in our paper. The results are not exact due to the random nature of the sampling based algorithms. 
